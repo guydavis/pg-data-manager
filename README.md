@@ -2,9 +2,9 @@
 
 Requirements
 ------------
-Python
-Flask 
-Postgres
+* Python
+* Flask 
+* Postgres
 
 Installation
 ------------
@@ -17,6 +17,6 @@ visit http://127.0.0.1:5000/
 
 Credits
 ------------
-https://github.com/mitsuhiko/flask
-https://github.com/BlackrockDigital/startbootstrap-sb-admin-2
-https://github.com/w84miracle/flask-sb-admin2
+* https://github.com/mitsuhiko/flask
+* https://github.com/BlackrockDigital/startbootstrap-sb-admin-2
+* https://github.com/w84miracle/flask-sb-admin2
